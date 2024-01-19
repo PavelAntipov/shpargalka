@@ -1,4 +1,4 @@
-#commands
+# commands
 git init  
 git clone  
 git add  
